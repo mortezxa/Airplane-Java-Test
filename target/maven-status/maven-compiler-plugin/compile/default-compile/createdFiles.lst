@@ -1,0 +1,7 @@
+airplane\Aircraft.class
+airplane\models\FlightStatus.class
+airplane\components\Engine.class
+airplane\components\LandingGear.class
+airplane\components\FuelSystem.class
+airplane\components\NavigationSystem.class
+airplane\exceptions\FlightException.class
